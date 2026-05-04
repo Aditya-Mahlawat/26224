@@ -1,0 +1,22 @@
+$kind: http-request
+name: http://20.207.122.201/evaluation-service/auth
+url: http://20.207.122.201/evaluation-service/auth
+method: POST
+body:
+  type: json
+  content: "{\r
+
+    \    \"email\": \"aditya.26224@ggnindia.dronacharya.info\",\r
+
+    \    \"name\": \"aditya mahlawat\",\r
+
+    \    \"rollNo\": \"26224\",\r
+
+    \    \"accessCode\":\"uksdWT\",\r
+
+    \    \"clientID\": \"5f9c9f93-1d4b-47bb-ab3b-f9fc16025eae\",\r
+
+    \    \"clientSecret\": \"SbcZKvNcENCzWFeH\"\r
+
+    }"
+order: 1579574963695778

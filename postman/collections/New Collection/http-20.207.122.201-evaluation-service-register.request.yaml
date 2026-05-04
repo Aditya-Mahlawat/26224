@@ -1,0 +1,22 @@
+$kind: http-request
+name: http://20.207.122.201/evaluation-service/register
+url: http://20.207.122.201/evaluation-service/register
+method: POST
+body:
+  type: json
+  content: "{\r
+
+    \  \"email\": \"aditya.26224@ggnindia.dronacharya.info\",\r
+
+    \  \"name\": \"Aditya Mahlawat\",\r
+
+    \  \"mobileNo\": \"9318407244\",\r
+
+    \  \"githubUsername\": \"Aditya-Mahlawat\",\r
+
+    \  \"rollNo\": \"26224\",\r
+
+    \  \"accessCode\": \"uksdWT\"\r
+
+    }"
+order: 1777871955218
