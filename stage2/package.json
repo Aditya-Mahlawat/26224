@@ -2,6 +2,7 @@
   "name": "stage2",
   "version": "0.1.0",
   "private": true,
+  "proxy":"http://20.207.122.201",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
